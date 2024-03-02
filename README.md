@@ -1,4 +1,4 @@
-# One-page-CVwebsite-PiscineDiscovery42
+# 42 PiscineDiscovery - One page CVwebsite with Bootstrap
 One page web site project with Bootstrap template during Piscine Discovery at 42 school in Lyon
 -------------------------------------------------------------------------------------------------
 Extract of subject :
